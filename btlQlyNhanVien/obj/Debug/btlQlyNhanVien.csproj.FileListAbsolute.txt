@@ -1,0 +1,9 @@
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\bin\Debug\btlQlyNhanVien.exe.config
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\bin\Debug\btlQlyNhanVien.exe
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\bin\Debug\btlQlyNhanVien.pdb
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.csprojResolveAssemblyReference.cache
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.Form1.resources
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.Properties.Resources.resources
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.csproj.GenerateResource.Cache
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.exe
+c:\users\be thu hong\documents\visual studio 2013\Projects\btlQlyNhanVien\btlQlyNhanVien\obj\Debug\btlQlyNhanVien.pdb
